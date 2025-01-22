@@ -34,8 +34,8 @@
 - Rust: Lenguaje rápido y seguro para el desarrollo en blockchain.
 
 ### **Base de Datos:**
-- MySQL: Sistema de base de datos relacional confiable.
-- Prisma: ORM moderno para simplificar las consultas y migraciones.
+- PostgreSQL: Sistema de base de datos relacional confiable.
+- TypeORM: ORM moderno para simplificar las consultas y migraciones.
 
 ### **Contenedores:**
 - Docker: Para garantizar entornos de desarrollo consistentes.
