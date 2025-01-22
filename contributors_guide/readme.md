@@ -1,49 +1,47 @@
+# VolunChain Contribution Guide 🌍
 
-# StarShop Contribution Guide💫
-
-Welcome! Follow these steps to contribute effectively to the StarShop project. Let’s build a transparent, blockchain-powered marketplace together!
+Welcome! Follow these steps to contribute effectively to the VolunChain project. Together, we can build a transparent, blockchain-powered volunteer platform that connects communities worldwide! 💫
 
 ---
 
 ## Important Note Before Applying 📝
 
- **⚠️ Avoid Generic Comments:**  
- 
-Comments like:  
+**⚠️ Avoid Generic Comments:**
 
- 🚫 *"Can I help on this one?"*  
+Comments like:
 
-🚫 *"I’d love to contribute!"*  
+🚫 *"Can I help on this one?"*
 
-🚫 *"Checkout my profile!"*  
+🚫 *"I’d love to contribute!"*
 
-🚫 *"Can I tackle this?"*  
+🚫 *"Checkout my profile!"*
 
-  **Won't be considered**, and you **won't be assigned**.  
+🚫 *"Can I tackle this?"*
 
-Instead, provide a **clear explanation of your approach **, including:  
+**Won't be considered**, and you **won't be assigned**.
 
-- An introduction about yourself
+Instead, provide a **clear explanation of your approach**, including:
+
+- An introduction about yourself.
 - A concise plan to solve the issue (6-8 lines max).
-- Your estimated completion time (ETA).  
-
+- Your estimated completion time (ETA).
 
 ---
 
-## Steps to Contribute🤝
+## Steps to Contribute 🤝
 
 ### 1. Apply for an Issue
 - Look for an open issue and comment expressing your interest to work on it.
 - Wait for the maintainer to assign the issue to you.
-- Remember to apply only if you are able to solve the issue.
-- In the comment, Add a quick introduction about yourself, The ETA, and how you plan to tackle the issuee.
+- Apply only if you are confident in your ability to solve the issue.
+- In your comment, include a quick introduction, your ETA, and your approach to tackle the issue.
 
 ---
 
-### 2. Contact the Maintainer📲
-Once assigned, contact the maintainer via Telegram to let them know you’re currently working on the assigned issue and provide a brief idea of how you plan to tackle it.
+### 2. Contact the Maintainer 📲
+Once assigned, contact the maintainer via Telegram to confirm your assignment and share your brief plan.
 
-Telegram: [@StarShop](https://t.me/starshopcr)
+Telegram: [@VolunChain](https://t.me/volunchain)
 
 ---
 
@@ -67,7 +65,7 @@ git checkout -b feature/issue-title
 
 ### 5. Write Code
 - Follow coding standards (ESLint, Prettier).
-- Ensure your code is well-documented and tested.
+- Ensure your code is well-documented and aligns with the project's guidelines.
 
 ---
 
@@ -80,12 +78,12 @@ git checkout -b feature/issue-title
    - A clear description of your solution.
    - A reference to the issue number.
 
-Wait for reviews, make updates if needed, and get your PR merged!  
-For faster review, contact the maintainer via Telegram.
+Wait for reviews, make updates if needed, and get your PR merged! For faster review, contact the maintainer via Telegram.
 
 ---
 
 ## Commit Message Guidelines
+
 Use the following types for your commit messages:
 
 - **feat:** A new feature
@@ -96,10 +94,10 @@ Use the following types for your commit messages:
 - **perf:** A code change that improves performance
 - **test:** Adding missing or correcting existing tests
 - **build:** Changes that affect the build system or external dependencies (example scopes: gulp, npm)
-- **ci:** Changes to CI configuration files and scripts (example scopes: travis, circle)
-- **chore:** Other changes that don't modify src or test files
+- **ci:** Changes to CI configuration files and scripts (example scopes: GitHub Actions, Docker)
+- **chore:** Other changes that don't modify `src` or test files
 - **revert:** Reverts a previous commit
 
 ---
 
-Thank you for contributing to StarShop! Let us know if you need any help.
+Thank you for contributing to VolunChain! If you need assistance, feel free to reach out. Let's create something impactful together! 🌟
