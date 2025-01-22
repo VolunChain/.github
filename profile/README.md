@@ -1,6 +1,5 @@
 # VolunChain
 
-![VolunChain Banner](https://x.com/volunchain/banner.jpg)  
 
 ## Innovando el Voluntariado con Blockchain 🚀
 
@@ -59,8 +58,8 @@ Estamos en búsqueda de desarrolladores apasionados por el código abierto. ¡T�
   - Stellar
   - Rust
 - **Base de Datos:**
-  - MySQL
-  - Prisma
+  - PostgreSQL
+  - TypeORM
 
 ### Pasos para Contribuir:
 1. Haz un fork de este repositorio.
