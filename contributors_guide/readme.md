@@ -1,8 +1,12 @@
 # VolunChain Contribution Guide 🌍
 
+> [!IMPORTANT]
+It would help us a lot if you gave a Star to our project, every star counts⭐️
+
 Welcome! Follow these steps to contribute effectively to the VolunChain project. Together, we can build a transparent, blockchain-powered volunteer platform that connects communities worldwide! 💫
 
 ---
+
 
 ## Important Note Before Applying 📝
 
